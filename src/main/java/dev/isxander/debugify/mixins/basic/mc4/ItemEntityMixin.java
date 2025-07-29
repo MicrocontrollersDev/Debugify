@@ -11,6 +11,7 @@ import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 
+// TODO: FIX
 @BugFix(id = "MC-4", category = FixCategory.BASIC, env = BugFix.Env.SERVER, description = "Item drops sometimes appear at the wrong location")
 @Mixin(ItemEntity.class)
 public abstract class ItemEntityMixin extends Entity {
