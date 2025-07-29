@@ -55,6 +55,7 @@
 ### Server Side (Both)
 | Type     | Bug ID                                                | Name                                                                                                                                           |
 |----------|-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| Basic    | [MC-4](https://bugs.mojang.com/browse/MC-4)           | Item drops sometimes appear at the wrong location                                                                                              |
 | Basic    | [MC-2025](https://bugs.mojang.com/browse/MC-2025)     | Mobs going out of fenced areas/suffocate in blocks when loading chunks                                                                         |
 | Basic    | [MC-7569](https://bugs.mojang.com/browse/MC-7569)     | RCON output has newlines removed                                                                                                               |
 | Gameplay | [MC-8187](https://bugs.mojang.com/browse/MC-8187)     | Two-by-two arrangements of jungle or spruce saplings cannot grow when there are adjacent blocks located north or west of the sapling formation |
