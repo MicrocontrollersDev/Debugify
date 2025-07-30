@@ -79,6 +79,7 @@
 | Basic    | [MC-134110](https://bugs.mojang.com/browse/MC-134110) | Structure mirroring breaking apart double chests                                                                                               |
 | Basic    | [MC-136249](https://bugs.mojang.com/browse/MC-136249) | Wearing boots enchanted with depth strider decreases the strength of the riptide enchantment                                                   |
 | Basic    | [MC-139041](https://bugs.mojang.com/browse/MC-139041) | The sounds of fishing bobbers aren't controlled by the "Players" sound slider                                                                  |
+| Basic    | [MC-142555](https://bugs.mojang.com/browse/MC-142555) | You cannot tempt or tame cats or ocelots using tropical fish                                                                                   |
 | Basic    | [MC-147659](https://bugs.mojang.com/browse/MC-147659) | Some witch huts spawn the incorrect cat                                                                                                        |
 | Basic    | [MC-147784](https://bugs.mojang.com/browse/MC-147784) | Fletching table flashes crafting table's GUI for about a second upon right-clicking it in spectator mode                                       |
 | Basic    | [MC-155509](https://bugs.mojang.com/browse/MC-155509) | Puffed pufferfish can hurt the player while dying                                                                                              |
